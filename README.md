@@ -29,3 +29,5 @@ Ever heard of Apple TV? or those Xiaomi boxes? OK, non of them are free (as in f
 ### Jabir Kiosk
 
 A kiosk is basically a piece of hardware which can become a platform for running basically anything. From a simple privacy focused internet access point in an airport to a cool sports machine, or even an augmented reality try-on machine in an outfit or accessories store.
+
+### Jarvis
