@@ -31,3 +31,5 @@ Ever heard of Apple TV? or those Xiaomi boxes? OK, non of them are free (as in f
 A kiosk is basically a piece of hardware which can become a platform for running basically anything. From a simple privacy focused internet access point in an airport to a cool sports machine, or even an augmented reality try-on machine in an outfit or accessories store.
 
 ### Jarvis
+
+Jarvis is a smart assistant, which will be available in the operating system. Also, users of other operating systems (which are compatible with GNU/Linux) will be able to install Jarvis. We also have plans for making Jarvis available as a hardware personal assistant as well, so it is Siri, Cortanan and Alexa at once and it also respects your privacy.
