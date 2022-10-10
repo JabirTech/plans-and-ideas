@@ -21,3 +21,5 @@ The base of most our product, is the operating system known as _JabirOS_. JabirO
 #### Devices supported by the operating system
 
 For the first phase, all x86 machines (with a support of 64bit operating systems) will be able to run JabirOS. Also, as long as _desktop_ tests were okay on x86 machines, there will be an option for _Raspberry Pi_. Since Raspberry Pi becoming some sort of standard device for most of Linux ARM machines, it'll be a huge step for us to have our operating system up and running on a Raspberry Pi.
+
+## Projects for Personal Users (Hardware/Software)
