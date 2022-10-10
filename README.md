@@ -37,3 +37,5 @@ Jarvis is a smart assistant, which will be available in the operating system. Al
 ### Jabir Home
 
 Imagine you've got a Jabir TV, and a Jarvis machine. What will be better than controlling your homes with them? Jabir Home is basically that. A suit of Hardware/Software solutions with a focus on your safety and privacy, which lets you have a much, much smarter home. 
+
+### Jabir Play
