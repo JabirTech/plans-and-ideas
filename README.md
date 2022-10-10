@@ -15,3 +15,5 @@ The main business model for this part of the project will be development, suppor
 Every user who uses Jabir Technologies products individually and doesn't have any _enterprise_ contract with us, will be considered a _personal_ user. Despite using our software products on multiple devices or using our hardware products in large quantities. The main goal of our organization is also providing a ground for all types of users to access a free (as in freedom) and secure computational platform.
 
 ### The Operating System
+
+The base of most our product, is the operating system known as _JabirOS_. JabirOS, is a free and open source operating system based on _Debian GNU/Linux_ featuring a full set of desktop and mobile applications, optimized for day to day use by our users. The operating system will be available on a vast variety of system architectures in near future.
