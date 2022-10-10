@@ -18,4 +18,6 @@ Every user who uses Jabir Technologies products individually and doesn't have an
 
 The base of most our product, is the operating system known as _JabirOS_. JabirOS, is a free and open source operating system based on _Debian GNU/Linux_ featuring a full set of desktop and mobile applications, optimized for day to day use by our users. The operating system will be available on a vast variety of system architectures in near future.
 
-### Devices supported by the operating system
+#### Devices supported by the operating system
+
+For the first phase, all x86 machines (with a support of 64bit operating systems) will be able to run JabirOS. Also, as long as _desktop_ tests were okay on x86 machines, there will be an option for _Raspberry Pi_. Since Raspberry Pi becoming some sort of standard device for most of Linux ARM machines, it'll be a huge step for us to have our operating system up and running on a Raspberry Pi.
