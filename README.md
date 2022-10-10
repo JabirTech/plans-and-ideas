@@ -23,3 +23,5 @@ The base of most our product, is the operating system known as _JabirOS_. JabirO
 For the first phase, all x86 machines (with a support of 64bit operating systems) will be able to run JabirOS. Also, as long as _desktop_ tests were okay on x86 machines, there will be an option for _Raspberry Pi_. Since Raspberry Pi becoming some sort of standard device for most of Linux ARM machines, it'll be a huge step for us to have our operating system up and running on a Raspberry Pi.
 
 ### Jabir TV
+
+Ever heard of Apple TV? or those Xiaomi boxes? OK, non of them are free (as in freedom) or open source. On the other hand, they don't respect your privacy and personal rights of owning the hardware or software. Jabir TV, will be a privacy focused smart TV device, which will help you turn your normal TV display to a smart TV.
