@@ -11,3 +11,5 @@ The main business model for this part of the project will be development, suppor
 ## For Personal Users
 
 ### Definition of _personal_ user
+
+Every user who uses Jabir Technologies products individually and doesn't have any _enterprise_ contract with us, will be considered a _personal_ user. Despite using our software products on multiple devices or using our hardware products in large quantities. The main goal of our organization is also providing a ground for all types of users to access a free (as in freedom) and secure computational platform.
