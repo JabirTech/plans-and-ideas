@@ -25,3 +25,7 @@ For the first phase, all x86 machines (with a support of 64bit operating systems
 ### Jabir TV
 
 Ever heard of Apple TV? or those Xiaomi boxes? OK, non of them are free (as in freedom) or open source. On the other hand, they don't respect your privacy and personal rights of owning the hardware or software. Jabir TV, will be a privacy focused smart TV device, which will help you turn your normal TV display to a smart TV.
+
+### Jabir Kiosk
+
+A kiosk is basically a piece of hardware which can become a platform for running basically anything. From a simple privacy focused internet access point in an airport to a cool sports machine, or even an augmented reality try-on machine in an outfit or accessories store.
