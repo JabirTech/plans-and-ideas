@@ -33,3 +33,5 @@ A kiosk is basically a piece of hardware which can become a platform for running
 ### Jarvis
 
 Jarvis is a smart assistant, which will be available in the operating system. Also, users of other operating systems (which are compatible with GNU/Linux) will be able to install Jarvis. We also have plans for making Jarvis available as a hardware personal assistant as well, so it is Siri, Cortanan and Alexa at once and it also respects your privacy.
+
+### Jabir Home
